@@ -1,0 +1,20 @@
+{
+    "name": "husum-selfbot",
+    "version": "0.0.1",
+    "description": "by husum.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+  
+    },
+    "engines": {
+      "node": "16.x"
+    },
+    "keywords": [
+      "node",
+      "glitch",
+      "express"
+    ]
+  }
